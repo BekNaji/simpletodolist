@@ -11,3 +11,4 @@ Proje öncelikle localda geliştirilecek ve paylaşımlı hostinge github ile y�
 Veritaban için MySql kullanılacak
 Frontend için HTML CSS, bootsrapp frameworku kullanılacak
 Backend tarafında ise PHP laravel frameworku kullanılacak</p>
+<img src="https://drive.google.com/file/d/1_gvm0JRr8uqubQhaNoKizA6625SqL6cL/view?usp=sharing">
