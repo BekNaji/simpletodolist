@@ -11,4 +11,14 @@ Proje öncelikle localda geliştirilecek ve paylaşımlı hostinge github ile y�
 Veritaban için MySql kullanılacak
 Frontend için HTML CSS, bootsrapp frameworku kullanılacak
 Backend tarafında ise PHP laravel frameworku kullanılacak</p>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Anasaya
+![1](https://user-images.githubusercontent.com/40340842/89126744-d4768c80-d4f0-11ea-9b64-d258b091735b.jpg)
+
+Ekleme Modal Formu
+![2](https://user-images.githubusercontent.com/40340842/89126748-db050400-d4f0-11ea-825b-1a230b104b4e.jpg)
+
+Düzenleme Modal formu
+![3](https://user-images.githubusercontent.com/40340842/89126749-db9d9a80-d4f0-11ea-9609-7736c57b15aa.jpg)
+
+Veriyi silerken uyarı Modal Formu
+![4](https://user-images.githubusercontent.com/40340842/89126750-dc363100-d4f0-11ea-96ff-475e6ad32eb4.jpg)
