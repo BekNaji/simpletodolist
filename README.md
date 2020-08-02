@@ -12,7 +12,8 @@ Veritaban için MySql kullanılacak
 Frontend için HTML CSS, bootsrapp frameworku kullanılacak
 Backend tarafında ise PHP laravel frameworku kullanılacak</p>
 <b>Anasayfa</b><br>
-![1](https://user-images.githubusercontent.com/40340842/89126744-d4768c80-d4f0-11ea-9b64-d258b091735b.jpg)
+
+![1](https://user-images.githubusercontent.com/40340842/89126808-78f8ce80-d4f1-11ea-99bd-4a28612fe92c.jpg)
 
 <b>Ekleme Modal Formu</b><br>
 ![2](https://user-images.githubusercontent.com/40340842/89126748-db050400-d4f0-11ea-825b-1a230b104b4e.jpg)
